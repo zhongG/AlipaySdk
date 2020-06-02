@@ -1,0 +1,14 @@
+{
+  "name": "zhongG/Alipaysdk",
+  "description": "alipay sdk",
+  "type": "library",
+  "homepage": "https://github.com/zhongG/AlipaySdk",
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "zhongG\\Alipaysdk": "src/"
+    }
+  }
+}
